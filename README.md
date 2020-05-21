@@ -1,4 +1,4 @@
-# APR-patch-correctness-IBF2020
+# Data for patch correctness study presented at IBF 2020 @ SANER
 
 This repository contains open science data used in the paper 
 
