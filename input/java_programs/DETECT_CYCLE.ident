@@ -1,0 +1,1 @@
+java_programs java public DETECT_CYCLE public static detect_cycle Node node boolean Node hare node Node tortoise node <BOOLEAN> hare getSuccessor <NULL> <BOOLEAN> tortoise tortoise getSuccessor hare hare getSuccessor getSuccessor hare tortoise <BOOLEAN> /* * To change this template, choose Tools | Templates * and open the template in the editor. */ 

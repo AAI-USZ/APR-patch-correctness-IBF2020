@@ -1,0 +1,1 @@
+java_programs java public REVERSE_LINKED_LIST public static reverse_linked_list Node node Node Node prevnode <NULL> Node nextnode node <NULL> nextnode node getSuccessor node setSuccessor prevnode node nextnode prevnode /* * To change this template, choose Tools | Templates * and open the template in the editor. */ 
